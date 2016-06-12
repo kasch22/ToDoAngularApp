@@ -1,0 +1,15 @@
+#Ideas to Inhance this App.
+
+// Add a login and signup function , Basic.
+
+// Add a DB connection
+
+// Store task in DB
+
+// Use GET angular  to retrive a JSON of Tasks
+
+DB Tables
+
+User (id, username, password)
+Tasks (id, user_id, task body, done)
+
